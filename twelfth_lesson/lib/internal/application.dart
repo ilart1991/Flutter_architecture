@@ -11,6 +11,7 @@ class Application extends StatelessWidget {
   Widget build(BuildContext context) {
     varForFunc.testFunc();
     print(user);
+
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
